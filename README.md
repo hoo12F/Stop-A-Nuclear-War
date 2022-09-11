@@ -18,7 +18,8 @@ You start with a menu that you can choose by becoming the USA or the USSR.
 1. Press the code button on the top
 2. On the bottom, press download zip
 3. Open the zip
-4. Double-click `main.html`.
+4. click on `src` folder
+5. Double-click `main.html`.
 
 ## Version Info
 **Current version**: Pre-alpha 0.1.0
