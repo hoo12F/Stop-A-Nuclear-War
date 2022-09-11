@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('bg.avif');
+}
+
+button {
+    background-color: #de3c31;
+    color: white;
+    border: transparent;
+    height: 30px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #b13229;
+    cursor: pointer;
+}
+
+.date {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: normal;
+}
