@@ -31,3 +31,8 @@ You start with a menu that you can choose by becoming the USA or the USSR.
 **Next release (estimate)**: Sep 12 - Sep 17
 <br>
 **Used**: HTML, CSS
+
+## License and copyright
+No license
+<br>
+Created by **Aaron Jiang** and **Baominh Tran**
