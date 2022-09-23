@@ -36,3 +36,12 @@ You start with a menu that you can choose by becoming the USA or the USSR.
 No license
 <br>
 Created by **Aaron Jiang** and **Baominh Tran**
+
+## Acknowledgements
+**Storywriter & Idea**: Aaron Jiang
+<br>
+**Programmer**: Baominh Tran
+<br>
+**Assisting Programmer**: Aaron Jiang
+<br>
+**Documentation Writer**: Baominh Tran
